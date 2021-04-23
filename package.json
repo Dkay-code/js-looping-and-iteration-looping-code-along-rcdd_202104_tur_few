@@ -33,10 +33,10 @@
     "file-system": "^1.2.2",
     "jsdom": "^9.0",
     "mocha-jsdom": "~1.1.0",
-    "mocha-multi": "^1.0.1",
     "sinon": "^7.3.1"
   },
   "devDependencies": {
-    "mocha": "^6.2.3"
+    "mocha": "^6.2.3",
+    "mocha-multi": "^1.1.3"
   }
 }
